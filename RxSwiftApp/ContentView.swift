@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import RxSwift
 
 struct ContentView: View {
     var body: some View {
